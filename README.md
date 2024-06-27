@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkeksd&theme=dark)](https://github.com/gkeksd/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkeksd&exclude_repo=github-readme-stats&layout=compact)](https://github.com/gkeksd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkeksd&exclude_repo=github-readme-stats,RealtimeClock&layout=compact)](https://github.com/gkeksd/github-readme-stats)
 
 - 🔭 현재 인하대학교(INHA University) 재학중
 - 🌱 C++을 통한 객체지향 프로그래밍의 기본을 학습 중
